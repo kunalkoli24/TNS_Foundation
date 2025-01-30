@@ -19,5 +19,7 @@ public class P2_Variable {
         System.out.println("Double:" +d);
         System.out.println("Byte:" +B);
 
+        int intMin = 214783647;
+        int intMax = 214783647;
     }
 }
