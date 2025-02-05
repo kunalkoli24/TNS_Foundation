@@ -1,4 +1,4 @@
-public class P14_Switch_Case {
+public class P15_Switch_Case {
     public static void main(String[] args) {
         char x = 'p';
         String lang = switch (x){
