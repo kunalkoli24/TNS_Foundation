@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class P12_Password_Checking {
+public class P14_Checking_Login_Credentials {
     public static void main(String[] args) {
         String userName = "kunal";
         String password = "kunal@2409";
