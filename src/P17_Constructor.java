@@ -1,5 +1,3 @@
-import java.sql.SQLOutput;
-
 public class P17_Constructor {
     private String custName;
     private int custId;
