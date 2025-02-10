@@ -39,7 +39,7 @@ public class P18_Encapsulation {
     public static void main(String[] args) {
         P18_Encapsulation P18=new P18_Encapsulation();
         P18.setAge(21);
-        P18.setName("Vaishnavi");
+        P18.setName("Kunal");
         P18.setSerialNo(1);
         System.out.println(P18);
     }
