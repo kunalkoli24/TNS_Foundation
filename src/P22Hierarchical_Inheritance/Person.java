@@ -37,5 +37,6 @@ public class Person {
                 "city='" + city + '\'' +
                 ", name='" + name + '\'' +
                 '}';
+
     }
 }
