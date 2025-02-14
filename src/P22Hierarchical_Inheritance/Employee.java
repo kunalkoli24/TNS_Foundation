@@ -49,5 +49,6 @@ public class Employee extends Person{
                 ", empId=" + empId +
                 ", salary=" + salary +
                 '}';
+
     }
 }
