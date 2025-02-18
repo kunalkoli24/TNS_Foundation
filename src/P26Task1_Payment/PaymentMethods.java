@@ -64,6 +64,6 @@ public class PaymentMethods {
             }
             System.out.println("You wanted to pay again ...y/n");
             c = input.next();
-        } while (c != "n");
+        } while (c.equals("y"));
     }
 }
